@@ -31,8 +31,8 @@
 	<h3>Tell Me Something About Yourself:</h3>
 	<textarea rows="4" cols="43">
 	</textarea><br><br>
-	<label for="favlang">Favorite Language</label>
-	<select name="favlang">
+	<label>Favorite Language</label>
+	<select>
 		<option value="select">- select -</option>
 		<option value="javascript">JavaScript</option>
 		<option value="java">Java</option>
