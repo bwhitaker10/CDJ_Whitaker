@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>The GOAT</title>
+	<meta name="description" content="Why Tom Brady is the greatest quarterback of all time" >
+</head>
+<body>
+	<h1>The GOAT</h1>
+	<h2>Why Tom Brady is the Greatest Quarterback of All Time</h2>
+	<a href="https://media.nbcchicago.com/images/1200*700/AP_17036822451812.jpg?ak=bc"><img src="https://media.nbcchicago.com/images/1200*700/AP_17036822451812.jpg?ak=bc" title="Tom Brady Screaming" width="300" height="175" /></a>
+	<div class="container">
+		<article>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut metus porttitor, placerat dolor in, feugiat arcu. Duis dapibus orci in dolor volutpat euismod quis at ante. Aliquam et blandit ipsum. Proin iaculis ut tellus eu rhoncus. Integer odio orci, semper sed sollicitudin ut, fermentum eget turpis. Integer vitae consectetur tortor. Nam a arcu purus. Fusce dui nunc, porttitor ut malesuada id, cursus eu nunc. Cras risus lectus, imperdiet at rhoncus ac, rutrum a purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla eleifend tempus dolor at ultrices. Aliquam aliquam nisl elit, nec aliquet lectus consectetur vel. Proin convallis ac risus at sollicitudin. Nam consectetur leo vitae libero consequat, at aliquam urna auctor. Aenean vehicula quam ac dolor fringilla, at placerat tellus pretium. Proin ut tempus eros.Integer mattis eros at dui pulvinar, ut commodo orci convallis. Proin at enim eget dui dictum scelerisque eu sed ante. Curabitur a nunc vel leo mattis lobortis. In velit neque, tincidunt quis tortor quis, gravida rutrum mauris. Quisque lacinia metus in ex ullamcorper aliquet. Suspendisse vestibulum elementum turpis, a feugiat leo eleifend vitae. Cras sed iaculis libero. In non ipsum magna. Quisque pretium mi at erat facilisis vestibulum. Duis varius pretium nisi, at cursus massa egestas malesuada. Curabitur dignissim tellus eget nisl varius, malesuada gravida nibh cursus. Curabitur nunc metus, aliquet vel justo sed, lobortis consequat mauris. Praesent arcu purus, porta sed augue quis, consectetur sollicitudin nibh. Mauris sollicitudin id elit id commodo. In ultricies commodo ligula placerat fermentum. Quisque mollis laoreet lorem, vitae commodo odio placerat at.</p>
+		</article>	
+	</div>
+	<table border="1">
+    	<thead>
+        	<tr>
+            	<th>Year</th>
+            	<th>Super Bowl Win?</th>
+            	<th>MVP?</th>
+        	</tr>
+    	</thead>
+    	<tbody>
+        	<tr>
+            	<td>2002</td>
+            	<td>Yes</td>
+            	<td>Yes</td>
+        	</tr>
+        	<tr>
+            	<td>2004</td>
+            	<td>Yes</td>
+            	<td>Yes</td>
+        	</tr>
+        	<tr>
+            	<td>2005</td>
+            	<td>Yes</td>
+            	<td>No</td>
+        	</tr>
+        	<tr>
+            	<td>2008</td>
+            	<td>No</td>
+            	<td>N/A</td>
+        	</tr>
+        	<tr>
+            	<td>2012</td>
+            	<td>No</td>
+            	<td>N/A</td>
+        	</tr>
+        	<tr>
+            	<td>2015</td>
+            	<td>Yes</td>
+            	<td>Yes</td>
+        	</tr>
+        	<tr>
+            	<td>2017</td>
+            	<td>Yes</td>
+            	<td>Yes</td>
+        	</tr>
+        	<tr>
+            	<td>2018</td>
+            	<td>No</td>
+            	<td>N/A</td>
+        	</tr>
+    	</tbody>
+	</table><br>
+	<li>5-Time Super Bowl Champion</li>
+	<li>4-Time Super Bowl MVP</li>
+	<li>3-Time League MVP</li>
+	<li>14-Time Pro Bowl Selection</li><br>
+	<a href="https://www.youtube.com/watch?v=gY8exXZgyqc">Super Bowl LI Comeback vs. Atlanta</a>
+	<div><br><br>
+		<h3>Join the Brady Fan Mailing List</h3>
+		<label for="email">Email</label>
+		<input type="text" name="email">
+	</div><br>
+	<div>
+		<p>What is the No. 1 Reason for Brady's Greatness?</p>
+		<label for="no1">Accuracy</label>
+		<input type="radio" id="no1" name="greatness"><br>
+		<label for="no2">Bill Belichick</label>
+		<input type="radio" id="no2" name="greatness"><br>
+		<label for="no3">Pre-Snap Adjustments</label>
+		<input type="radio" id="no3" name="greatness"><br>
+		<label for="no4">His Handsomeness</label>
+		<input type="radio" id="no4" name="greatness">
+	</div><br>
+	<div>
+		<p>What Type of Mail Would You Like to Receive?</p>
+		<label for="no5">News</label>
+		<input type="checkbox" id="no5" name="check">
+		<label for="no6">Merchandise</label>
+		<input type="checkbox" id="no6" name="check">
+		<label for="no7">Special Offers</label>
+		<input type="checkbox" id="no7" name="check">
+	</div><br>
+	<input type="submit" value="Submit">
+</html>
