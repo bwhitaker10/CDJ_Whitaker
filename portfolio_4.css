@@ -1,0 +1,122 @@
+body *{
+	padding: 0px;
+	margin: 0px;
+}
+.wrapper {
+	width: 970px;
+	height: 970px;
+}
+.header{
+	background-color: lightgrey;
+}
+.header {
+	width: 939px;
+	height: 30px;
+	padding: 15px;
+}
+.header h1 {
+	display: inline-block;
+	margin-right: 500px;
+}
+.header h3 {
+	display: inline-block;
+}
+.content {
+	padding:20px 20px;
+	width:929px;
+	height:870px;
+	background-color: #5b1557;
+}
+.content img {
+	margin-bottom: 20px;
+	width:410px;
+	height:auto;
+	border: 5px solid lightgrey;
+}
+.content .about {
+	background-color: lightgrey;
+	width: 500px;
+	display:inline-block;
+	vertical-align: top;
+	height:280px;
+}
+.content .about h1 {
+	padding: 10px;
+	background-color: lightgrey;
+    color:white;
+}
+.content p {
+	margin-bottom: 15px;
+	padding-left: 10px;
+}
+.content a{
+	padding-left: 10px;
+}
+.content .projects {
+	width:295px;
+	height: 570px;
+	display : inline-block;
+	vertical-align: top;
+	background-color: lightgrey;
+}
+.content .projects.info {
+	margin-right:15px;
+}
+.projects img {
+	width: 293px;
+	margin:0;
+}
+.projects ul {
+	width: 293px;
+	margin:0;
+}
+.projects h1 {
+	width: 273;
+	padding: 5px;
+	color: white;
+	background-color: lightgrey;
+}
+.projects img{
+	border:none;
+}
+.smallpics {
+	padding:15px;
+}
+.smallpics li{
+	display: inline-block;
+	margin-right:10px;
+}
+.smallpics img{
+	width:40px;
+	height:40px;
+}
+.projects button {
+	background-color: green;
+	color:white;
+	padding:5px;
+	margin: 10px 100px;
+	font-weight: 100;
+}
+.footer{
+	width:968px;
+	height:50px;
+}
+.footer p {
+	margin:auto;
+	width: 240px;
+}
+.footer ul {
+	width: 380px;
+	margin:auto;
+}
+.footer ul li {
+	display:inline-block;
+}
+.footer img {
+	width: 20px;
+	height:auto;
+	margin:auto;
+}
+.footer{
+	background-color: lightgrey;
+}
